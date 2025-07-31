@@ -19,12 +19,11 @@ NODE_ENV=development
 
 ------------------------------------------------------------------------
  
- Build the App:
- 
+ Build the App: 
 npm run build
 
 
+----------------------------------------------------
 
 Start the App:
-
 npm start
