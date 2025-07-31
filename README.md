@@ -3,7 +3,9 @@ create a .env file and add the following environment variables:
 
 
 MONGODB_URI=your_mongodb_connection_string
+
 PORT=5001
+
 JWT_SECRET=your_jwt_secret
 
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
